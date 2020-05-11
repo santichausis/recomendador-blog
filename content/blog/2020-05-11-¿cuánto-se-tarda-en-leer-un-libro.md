@@ -8,4 +8,6 @@ thumbnail: /img/florian-klauer-mk7d-4ucfmg-unsplash.jpg
 
 ##### ¿Se tarda lo mismo con el primer libro que con los siguientes? ¿Por qué?
 
+Ya vamos a profundizar este tema
+
 ![Maquina de escribir](/img/florian-klauer-mk7d-4ucfmg-unsplash.jpg "Maquina de escribir")
