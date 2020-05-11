@@ -39,6 +39,7 @@
     "typography-theme-wordpress-2016": "^0.16.19"
   },
   "devDependencies": {
+    "env-cmd": "^10.1.0",
     "prettier": "2.0.5"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
@@ -53,7 +54,7 @@
   },
   "scripts": {
     "build": "gatsby build",
-    "develop": "gatsby develop",
+    "develop": "GATSBY_GRAPHQL_IDE=playground gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
