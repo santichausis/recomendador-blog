@@ -1,13 +1,9 @@
 ---
-title: ¿Cuánto se tarda en escribir un libro?
+title: 🏀 | 3 Libros sobre el Basket si te gustó la serie "The Last Dance"
 date: 2020-05-11T13:27:22.086Z
-description: Buen día a todos los lectores que nos están visitando!
-thumbnail: /img/florian-klauer-mk7d-4ucfmg-unsplash.jpg
+description: Si te gustó la serie de Netflix sobre el equipo Chicago Bulls que
+  en los 90 se encargó de demostrar quien lideraba la liga más competitiva del
+  mundo esto es para vos.
+thumbnail: /img/maquina-de-escribir.jpg
 ---
- Buen día a todos los lectores que nos están visitando! Hoy vamos a hablar sobre el tiempo que lleva escribir un libro. Vamos a enterarnos de la mano de algunos escritores que hemos consultado cuando es el tiempo promedio que les ha llevado redactar un libro.
-
-##### ¿Se tarda lo mismo con el primer libro que con los siguientes? ¿Por qué?
-
-Ya vamos a profundizar este tema
-
-![Maquina de escribir](/img/florian-klauer-mk7d-4ucfmg-unsplash.jpg "Maquina de escribir")
+Si te gustó la serie de Netflix sobre el equipo Chicago Bulls que en los 90 se encargó de demostrar quien lideraba la liga más competitiva del mundo esto es para vos.
