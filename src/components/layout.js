@@ -1,7 +1,9 @@
 import React from "react"
 import { Link } from "gatsby"
 
-import { rhythm, scale } from "../utils/typography"
+import { rhythm } from "../utils/typography"
+
+import layoutStyles from './layout.module.scss'
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -10,11 +12,7 @@ const Layout = ({ location, title, children }) => {
   if (location.pathname === rootPath) {
     header = (
       <h1
-        style={{
-          ...scale(1),
-          marginBottom: rhythm(1.5),
-          marginTop: 0,
-        }}
+        className={layoutStyles.titulo}
       >
         <Link
           style={{
@@ -30,10 +28,7 @@ const Layout = ({ location, title, children }) => {
   } else {
     header = (
       <h3
-        style={{
-          fontFamily: `Montserrat, sans-serif`,
-          marginTop: 0,
-        }}
+        className={layoutStyles.titulo}
       >
         <Link
           style={{
