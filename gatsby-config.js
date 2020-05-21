@@ -53,15 +53,15 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `155065699`,
       },
     },
     `gatsby-plugin-feed`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Recomendador de Libros`,
+        short_name: `Recomendador de Libros`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
